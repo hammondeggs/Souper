@@ -19,7 +19,7 @@ You should now see Souper V1.00-1 listed in your user oscillators. Press "Send A
 #
 ### usage
 
-Souper generates 5 sawtooth waveforms (as of version 1.00-1), where 4 can be detuned from the root first sawtooth via the Shape knob. Note, when Shape is set to 0 (full left), the waveforms are not out of tune, and are locked, which can be used to generate wave-table-esqe type sounds
+Souper generates 5 sawtooth waveforms (as of version 1.00-1), where 4 can be detuned from the root first sawtooth via the Shape knob. Note, when Shape is set to 0 (full left), the waveforms are not out of tune, and are locked, which can be used to generate wave-table-esqe type sounds, as while these oscillators are locked, they are also allowed to free-run enabling this effect.
 
 You can also add a second set of 5 sawtooth waveforms, who's level is set via the Shift+Shape knob. This second set by default are one octave above the main waveform, however this can be adjusted in the Multi Engine parameters - Parameter 1, "Second Note" allows you to change which relative note this second group is playing (1 : Octave up (default), 5'th, 4'th, Root (uses slightly different detuning), 5'th down, 4'th down, lower octave, lower 4'th and 2x lower octave).
 
